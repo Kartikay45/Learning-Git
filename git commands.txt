@@ -1,0 +1,35 @@
+cd desktop
+git clone (link)
+cd (folder name or file name)
+git branch
+git branch (branch name)
+git branch
+git checkout (branch name)
+git branch
+touch (file name)
+ls
+git status
+git add (file)
+git status
+---if you have not configure git before do it----
+git cinfig --global user.name "kartik"
+git config --global user.email "....@gmail.com"
+git commit -m "first commit"
+git log
+ls
+---if any problem---
+git chekout empty
+git checkout -f main
+ls
+git push -u origin main
+git merge (branch)
+git log
+git push -u origin main
+git checkout (from that branch)
+touch (file name)
+git status
+git commit -m "second commit"
+git status
+git log
+git add .
+git rm (filename)
